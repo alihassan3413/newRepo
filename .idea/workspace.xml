@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abc289c8-f388-4c7e-8128-19eb5e1a8232" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/LabInventory/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/LabInventory/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/LabInventory/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/LabInventory/Lab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/LabInventory/LabStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/cinema/Cinema.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/cinema/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/cinema/Movie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/cinema/Screen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/cinema/Seat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/New folder/com/cinema/Showtime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Card/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Card/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Card/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Card/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabInventory/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabInventory/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabInventory/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabInventory/Lab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabInventory/LabStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabInventory/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabInventory/University.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/New folder/com/Card/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/New folder/com/Card/Deck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/New folder/com/Card/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/New folder/com/Card/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ZeeNSw15HXTe9NeJvv1hOCmQVM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Merging master",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abc289c8-f388-4c7e-8128-19eb5e1a8232" name="Changes" comment="" />
+      <created>1702786931945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702786931945</updated>
+      <workItem from="1702786933065" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
